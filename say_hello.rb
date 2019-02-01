@@ -1,3 +1,3 @@
 # Build your say_hello method here
 
-puts "Hello Kent Beck "
+puts "Hello Kent Beck!"
